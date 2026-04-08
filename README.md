@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriela Montilla</h1>
-<h3 align="center">Full-Stack Developer | Salesforce Marketing Cloud Specialist</h3>
+<h3 align="center">Full-Stack Developer | Salesforce Marketing Cloud Developer</h3>
 
 ---
 
