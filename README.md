@@ -8,7 +8,7 @@
 - 💼 Full-Stack Developer specialized in **Java (Spring Boot), Node.js, React & Vue.js**
 - ☁️ Salesforce Marketing Cloud Developer focused on **automation & personalization**
 - 📊 Strong expertise in **SQL, data modeling & performance optimization**
-- 🔐 Experience implementing **secure authentication and data handling (JWT, APIs)**
+- 🔐 Experience implementing **secure authentication and data handling (JWT, Spring Security, APIs)**
 - 🚀 Building scalable and high-impact solutions
 
 ---
