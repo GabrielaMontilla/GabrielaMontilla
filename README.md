@@ -3,8 +3,8 @@
 </div>
 <h1 align="center">Hi 👋, I'm Gabriela Montilla</h1>
 <h3 align="center">Full-Stack Developer | Salesforce Marketing Cloud Developer </h3>
----
 
+---
 ###   About Me
 
 - 💼 Full-Stack Developer specialized in **Java (Spring Boot), Node.js, React & Vue.js**
