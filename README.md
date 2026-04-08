@@ -7,7 +7,8 @@
 
 - 💼 Full-Stack Developer with experience in **Java (Spring Boot), Node.js, React, Vue.js**
 - ☁️ Salesforce Marketing Cloud Developer specialized in **Email Development, Automation & Personalization**
-- 🤖 Experienced using **AI tools (Claude, Gemini)** to enhance development workflows and productivity
+- 🤖 Experienced using **AI tools (Claude, Gemini)** to enhance development workflows
+- 🐧 Hands-on experience deploying **frontend & backend applications in Linux environments**
 - 📊 Strong expertise in **SQL, data modeling, and performance optimization**
 - 🌎 Experience delivering solutions for **global markets (US, UK, AU)**
 - 🚀 Focused on building scalable, secure, and high-performance applications
@@ -36,6 +37,12 @@
 - Email Studio | Journey Builder | Automation Studio  
 - AMPscript | SSJS | Dynamic Content  
 
+#### 🚀 Deployment & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://img.shields.io/badge/Deployment-Server%20Management-blue?style=for-the-badge"/>
+</p>
+
 #### 🤖 AI & Productivity
 <p>
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -45,6 +52,7 @@
 #### 🧪 Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
 </p>
 
@@ -58,6 +66,10 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielaMontilla&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielaMontilla&theme=tokyonight&cache_seconds=1800" />
