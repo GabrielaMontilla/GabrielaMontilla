@@ -3,15 +3,13 @@
 
 ---
 
-### About Me
+###   About Me
 
-- 💼 Full-Stack Developer with experience in **Java (Spring Boot), Node.js, React, Vue.js**
-- ☁️ Salesforce Marketing Cloud Developer specialized in **Email Development, Automation & Personalization**
-- 🤖 Experienced using **AI tools (Claude, Gemini)** to enhance development workflows
-- 🐧 Hands-on experience deploying **frontend & backend applications in Linux environments**
-- 📊 Strong expertise in **SQL, data modeling, and performance optimization**
-- 🌎 Experience delivering solutions for **global markets (US, UK, AU)**
-- 🚀 Focused on building scalable, secure, and high-performance applications
+- 💼 Full-Stack Developer specialized in **Java (Spring Boot), Node.js, React & Vue.js**
+- ☁️ Salesforce Marketing Cloud Developer focused on **automation & personalization**
+- 📊 Strong expertise in **SQL, data modeling & performance optimization**
+- 🔐 Experience implementing **secure authentication and data handling (JWT, APIs)**
+- 🚀 Building scalable and high-impact solutions
 
 ---
 
